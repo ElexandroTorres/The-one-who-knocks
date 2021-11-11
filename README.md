@@ -16,7 +16,8 @@ Iniciando os meus estudos em flutter, fiz esse simples app para a assimilação 
 <p>
  - Conceitos iniciais do Flutter<br>
  - Conceitos inicias de Widgets e sua importância no Flutter<br>
- - Utilização de Imagens e configuração de dependências no pubspec.yaml<br>
+ - Utilização de Imagens e fonts personalizadas<br>
+ - Configuração de dependências no pubspec.yaml<br>
  - Posicionamento básico de widgets
 </p>
 
