@@ -1,16 +1,25 @@
-# the_one_who_knocks
 
-A new Flutter project.
+<h1  align="center">The one Who Knocks</h1>
 
-## Getting Started
+  
 
-This project is a starting point for a Flutter application.
+<p  align="center">
 
-A few resources to get you started if this is your first Flutter project:
+Iniciando os meus estudos em flutter, fiz esse simples app para a assimilação inicial dos conceitos basicos de widgets e seus posicionamentos. Uma homenagem a minha seria favoria e uma das suas cenas mais iconicas.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+
+<b> * Topicos estudados *
+
+<p>
+ - Conceitos iniciais do Flutter<br>
+ - Conceitos inicias de Widgets e sua importância no Flutter<br>
+ - Utilização de Imagens e configuração de dependências no pubspec.yaml<br>
+ - Posicionamento básico de widgets
+</p>
+
+<h3> Tela do aplicativo em um celular MS50L Multilaser</h3>
+<img  alt="Imagem mostrando a tela do aplicativo"  title="Demonstração aplicativo"  src="./github/screenshot.png"
+
