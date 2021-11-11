@@ -21,5 +21,5 @@ Iniciando os meus estudos em flutter, fiz esse simples app para a assimilação 
 </p>
 
 <h3> Tela do aplicativo em um celular MS50L Multilaser</h3>
-<img  alt="Imagem mostrando a tela do aplicativo"  title="Demonstração aplicativo"  src="./github/screenshot.png"
+<img  alt="Imagem mostrando a tela do aplicativo"  title="Demonstração aplicativo"  src="./github/screenshot.png">
 
